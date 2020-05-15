@@ -1,1 +1,0 @@
-graph graphname { node [style=filled] {node [style=filled,color=yellow] a b   d3  } {node [style=filled,color=skyblue] c A2  } a -- b -- c; c -- d3 -- A2 -- a; }
